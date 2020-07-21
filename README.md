@@ -1,5 +1,4 @@
 # Bitcoin Price Prediction
-# Real Estate Price Prediction
 This project is build to predict the price of a Bitcoin.
 
 ## Getting Started
